@@ -1,0 +1,26 @@
+.header-main h2 {
+    text-align: center;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+}
+
+ul,
+li {
+    list-style-type: none;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+.menu ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.menu ul li a {
+    margin-right: 20px;
+}
